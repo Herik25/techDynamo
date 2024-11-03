@@ -19,7 +19,7 @@ export default function About() {
             transition={{ duration: 0.5 }}
           >
             <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-              About PixelPro
+              About Tech Dynamo
             </h2>
             <p className="mt-4 text-lg text-gray-500">
               We're a team of passionate designers, developers, and digital strategists who love creating amazing digital experiences. With over a decade of experience, we've helped businesses of all sizes achieve their digital goals.
